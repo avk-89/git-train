@@ -1,0 +1,1 @@
+2c60d57 (HEAD -> newbranch, master) Changes somthing on branch 2
